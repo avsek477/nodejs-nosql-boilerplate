@@ -1,0 +1,10 @@
+node_modules/
+bucket.key.json
+package-lock.json
+yarn.lock
+yarn-error.log
+npm-debug.log
+.vscode
+.idea
+.env
+/public
